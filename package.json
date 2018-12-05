@@ -1,0 +1,23 @@
+{
+  "name": "eksamentest02",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000k\u0000s\u0000a\u0000m\u0000e\u0000n\u0000T\u0000e\u0000s\u0000t\u00000\u00002\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanStenboeg/EksamenTest02.git"
+  },
+  "author": "Johan Stenboeg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanStenboeg/EksamenTest02/issues"
+  },
+  "homepage": "https://github.com/JohanStenboeg/EksamenTest02#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
