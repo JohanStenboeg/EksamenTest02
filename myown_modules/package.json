@@ -1,0 +1,19 @@
+{
+    "name": "KiloToGramOmregner",
+    "version": "1.0.0",
+    "description": "Et modul, til omregning af kilo til gram",
+    "main": "kTGO.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/andracs/cvrapi-i-nodejs-eksempel.git**** RET MIG******"
+    },
+    "author": "Johan Stenbøg, datamatikerstuderende på Easj Næstved",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/andracs/cvrapi-i-nodejs-eksempel/issues **** RET MIG******" 
+    },
+    "homepage": "https://github.com/andracs/cvrapi-i-nodejs-eksempel#readme**** RET MIG******"
+  }
